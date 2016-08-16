@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://java.sun.com/xml/ns/persistence"
+version="1.0">
+
+
+	<persistence-unit name="user" transaction-type="RESOURCE_LOCAL" >
+		<class>demo.User</class>
+		  <properties>
+		     <property name="hibernate.connection.driver_class" value="com.mysql.jdbc.Driver"/>
+		     <property name="hibernate.connection.password" value="sparx"/>
+		     <property name="hibernate.connection.url" value="jdbc:mysql://localhost/mydb"/>
+		     <property name="hibernate.connection.username" value="root"/>
+		     <property name="hibernate.dialect" value="org.hibernate.dialect.MySQLDialect"/>
+		     <property name="hibernate.connection.isolation" value="2"/>
+     	</properties>
+	</persistence-unit>
+	
+	
+	
+</persistence>

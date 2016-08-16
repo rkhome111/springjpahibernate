@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/hibernate5.0.2 with jpa support/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/hibernate5.0.2 with jpa support/hibernate-commons-annotations-5.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/hibernate5.0.2 with jpa support/hibernate-core-5.0.2.Final.jar" sourcepath="/home/sis177/.m2/repository/org/hibernate/hibernate-core/5.0.2.Final/hibernate-core-5.0.2.Final-sources.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/hibernate5.0.2 with jpa support/hibernate-core-5.0.2.Final-sources.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/hibernate5.0.2 with jpa support/hibernate-entitymanager-5.0.2.Final.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/hibernate5.0.2 with jpa support/hibernate-jpa-2.1-api-1.0.0.Final.jar" sourcepath="/home/sis177/.m2/repository/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/hibernate5.0.2 with jpa support/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/hibernate5.0.2 with jpa support/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/hibernate5.0.2 with jpa support/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/hibernate5.0.2 with jpa support/mysql-connector-java-commercial-5.1.17-bin.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/TechMentro jars/spring/core/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/TechMentro jars/spring/core/com.springsource.org.apache.log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/TechMentro jars/spring/core/jmxtools-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/TechMentro jars/spring/core/spring-asm-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/TechMentro jars/spring/core/spring-beans-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/TechMentro jars/spring/core/spring-context-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/TechMentro jars/spring/core/spring-core-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/TechMentro jars/spring/core/spring-expression-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/TechMentro jars/spring/persistCore/org.springframework.jdbc-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/TechMentro jars/spring/persistCore/org.springframework.orm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/TechMentro jars/spring/persistCore/org.springframework.transaction-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/TechMentro jars/spring/persistCore/persistence.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/TechMentro jars/spring/persistJdbc/com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/TechMentro jars/spring/persistJdbc/com.springsource.org.apache.commons.lang-2.4.0.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/TechMentro jars/spring/persistJdbc/com.springsource.org.apache.commons.pool-1.5.3.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/TechMentro jars/spring/persistJdbc/commons-dbcp.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/TechMentro jars/spring/persistJdbc/jotm.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/TechMentro jars/spring/persistJdbc/xapool.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/TechMentro jars/spring/aop/com.springsource.net.sf.cglib-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/TechMentro jars/spring/aop/com.springsource.org.aopalliance-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/TechMentro jars/spring/aop/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/TechMentro jars/spring/aop/spring-aop-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/TechMentro jars/spring/aop/spring-aspects-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/TechMentro jars/spring/aop/spring-instrument-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sis177/Desktop/TechMentro jars/spring/aop/spring-instrument-tomcat-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
